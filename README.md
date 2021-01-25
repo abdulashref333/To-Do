@@ -10,11 +10,15 @@ you can install [nodejs](https://nodejs.org/en/) from here.
 ## 2. install mongodb:
 **mongodb** it's a Nosqul database, also it's an opensouce project.  
 you could download [mongodb](https://docs.mongodb.com/manual/installation/) .  
-  
-## 3. just run the application:
+
+## 3. clone the project from the green icon above:
+just download as zip file then unzip the file.  
+
+## 4. just run the application:
    1.open you terminal or cmd.  
-   2. write this comman `npm install` .  
-   3. after getting no errors run this command `npm start` .  
+   2. cd to the project directory or folder using `cd ${put here your directory}` .
+   3. write this comman `npm install` .  
+   4. after getting no errors run this command `npm start` .  
 ### Notes:
 * this is opensource project so i'll be pleasure if i see your pullrequest.  
 * if faced any weired error feel free to commit an issue.
