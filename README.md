@@ -15,10 +15,10 @@ you could download [mongodb](https://docs.mongodb.com/manual/installation/) .
 just download as zip file then unzip the file.  
 
 ## 4. just run the application:
-   1.open you terminal or cmd.  
-   2. cd to the project directory or folder using `cd ${put here your directory}` .
-   3. write this comman `npm install` .  
-   4. after getting no errors run this command `npm start` .  
+   1.open you terminal or cmd.  \
+   2. cd to the project directory or folder using `cd ${put here your directory}` .\
+   3. write this comman `npm install` .\  
+   4. after getting no errors run this command `npm start` . \ 
 ### Notes:
 * this is opensource project so i'll be pleasure if i see your pullrequest.  
 * if faced any weired error feel free to commit an issue.
